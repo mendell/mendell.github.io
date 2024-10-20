@@ -1,8 +1,8 @@
 # Anurag
 
-**Principal Software Engineer**  
-B-807, Brigade Lakefront, Whitefield, Bangalore - 560048  
-✉️ [anurag1709@gmail.com](mailto:anurag1709@gmail.com)  
+**Senior Software Engineer**  
+Bangalore - 560048  
+✉️ [anurag@mendell.dev](mailto:anurag@mendell.dev)  
 [GitHub](https://github.com/mendell) | [LinkedIn](https://www.linkedin.com/in/mendell)  
 
 ---
